@@ -85,3 +85,8 @@ I don't want to allocate and free memory.
 
 Please tell me your thoughts. The prefered way is to open an issue.
 
+# OOP
+
+I think object-oriented-programming is overrated. Nevertheless I don't want to miss it.
+
+
