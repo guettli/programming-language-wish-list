@@ -47,6 +47,8 @@ The language should support a [name2type mapping](https://github.com/guettli/pyt
 
 This can help to keep the source code clean an easier to read for humans.
 
+Of course this is optional. Don't use it, if you don't like it.
+
 # Packaging should be part of the core project
 
 In Python packaging is not part of the core. There are several ways to package and install
