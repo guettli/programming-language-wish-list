@@ -91,10 +91,6 @@ I don't want to allocate and free memory.
 
 There should be a gRPC integration
 
-# Feedback is welcome
-
-Please tell me your thoughts. The prefered way is to open an issue.
-
 # OOP
 
 I think object-oriented-programming is overrated. Nevertheless I don't want to miss it.
@@ -106,4 +102,13 @@ I like the explicit way you need to call the parent-constructur in Python.
 It is perfectly fine to write this one line in the constructor of your class.
 
 
+
+# Feedback is welcome
+
+Please tell me your thoughts. The prefered way is to open an issue.
+
+
+# More
+
+[Thomas WOL: Working out Loud](https://github.com/guettli/wol)
 
