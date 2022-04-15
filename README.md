@@ -35,6 +35,12 @@ Classes use CamelCase and uppercase, and methods use snake_case and lower case.
 
 That's one thing I don't like about golang. 
 
+# No pointers
+
+The great thing about Python: You don't need to worry about pointers. It just works.
+
+This semantic is part of my wish list.
+
 # name2type mapping
 
 The language should support a [name2type mapping](https://github.com/guettli/python-name2type-mapping).
@@ -81,6 +87,10 @@ I know that Rust is faster than golang, but nevertheless garbage collection is o
 
 I don't want to allocate and free memory.
 
+# gRPC Integration
+
+There should be a gRPC integration
+
 # Feedback is welcome
 
 Please tell me your thoughts. The prefered way is to open an issue.
@@ -88,5 +98,12 @@ Please tell me your thoughts. The prefered way is to open an issue.
 # OOP
 
 I think object-oriented-programming is overrated. Nevertheless I don't want to miss it.
+
+## Explicit parent constructor
+
+I like the explicit way you need to call the parent-constructur in Python.
+
+It is perfectly fine to write this one line in the constructor of your class.
+
 
 
