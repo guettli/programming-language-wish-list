@@ -93,6 +93,10 @@ I don't want to allocate and free memory.
 
 There should be a gRPC integration
 
+# Profiling 
+
+Profiling should be part of the standard library. Related: [Go Profiling](https://go.dev/doc/diagnostics).
+
 # OOP
 
 I think object-oriented-programming is overrated. Nevertheless I don't want to miss it.
