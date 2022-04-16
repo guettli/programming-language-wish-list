@@ -107,6 +107,11 @@ I like the explicit way you need to call the parent-constructur in Python.
 
 It is perfectly fine to write this one line in the constructor of your class.
 
+# Chat, with threads
+
+It wish there is an active community chat where threads get used. Without threads
+a chat is just a stream of messages without structure. I prefer threaded chat, even
+if there is little traffic.
 
 
 # Feedback is welcome
