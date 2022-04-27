@@ -113,8 +113,12 @@ Example: https://docs.pytest.org/en/stable/explanation/fixtures.html
 
 # Testing: From code to tests.
 
-It would be great, if there would be a simple and fast way to get from a line in the production code
-to the corresponding tests which execute this line.
+It would be great, if there would be a simple and fast way to get from a method in the code
+to the corresponding tests which execute this method.
+
+Example: I have a method do_foo().
+
+Now I want to see all tests which execute do_foo().
 
 # OOP
 
