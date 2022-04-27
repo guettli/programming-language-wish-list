@@ -111,6 +111,11 @@ Just create an argument for your test function with the corresponding name.
 
 Example: https://docs.pytest.org/en/stable/explanation/fixtures.html
 
+# Testing: From code to tests.
+
+It would be great, if there would be a simple and fast way to get from a line in the production code
+to the corresponding tests which execute this line.
+
 # OOP
 
 I think object-oriented-programming is overrated. Nevertheless I don't want to miss it.
