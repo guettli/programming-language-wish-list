@@ -130,6 +130,10 @@ I like the explicit way you need to call the parent-constructur in Python.
 
 It is perfectly fine to write this one line in the constructor of your class.
 
+# Profiling which works in production
+
+Golang has great support for profiling production code: https://go.dev/doc/diagnostics
+
 # Chat, with threads
 
 It wish there is an active community chat where threads get used. Without threads
