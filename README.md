@@ -97,6 +97,20 @@ There should be a gRPC integration
 
 Profiling should be part of the standard library. Related: [Go Profiling](https://go.dev/doc/diagnostics).
 
+# Testing: function based
+
+I like function based tests like pyTest provides them. I don't want to write a class (jUnit style).
+
+Example: https://docs.pytest.org/en/stable/how-to/assert.html#assert
+
+# Testing: fixtures like pyTest
+
+PyTest fixtures are great. This way you can easily create data for your tests.
+
+Just create an argument for your test function with the corresponding name.
+
+Example: https://docs.pytest.org/en/stable/explanation/fixtures.html
+
 # OOP
 
 I think object-oriented-programming is overrated. Nevertheless I don't want to miss it.
